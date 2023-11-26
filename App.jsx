@@ -41,7 +41,7 @@ class LoginTextInput extends React.Component {
             marginHorizontal: 20, paddingHorizontal: 10,
             borderBottomColor:'#000',
             borderBottomWidth: 2,
-            width:200
+            width:250
            }}
           
           />
